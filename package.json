@@ -35,13 +35,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://gitlab.com/karonatourn/redux-persist-watermelon-storage",
+  "repository": "https://github.com/Karona-Tourn/redux-persist-watermelon-storage",
   "author": "Karona Tourn <tournkarona@gmail.com> (https://github.com/Karona-Tourn)",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/karonatourn/redux-persist-watermelon-storage/-/issues"
+    "url": "https://github.com/Karona-Tourn/redux-persist-watermelon-storage/issues"
   },
-  "homepage": "https://gitlab.com/karonatourn/redux-persist-watermelon-storage/-/blob/master/README.md",
+  "homepage": "https://github.com/Karona-Tourn/redux-persist-watermelon-storage/blob/main/README.md",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
